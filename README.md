@@ -1,4 +1,4 @@
-# Divide Minutes
+# Dividing Minutes
 
 Hur många dagar, timmar och minuter är 123456 minuter? 
 
